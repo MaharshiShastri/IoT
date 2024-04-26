@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL3e3wBPOBL"
-#define BLYNK_TEMPLATE_NAME "home automation 02"
-#define BLYNK_AUTH_TOKEN "UnjGsqWbooAYqOp2BdOMkB62e-gwtRx4"
+#define BLYNK_TEMPLATE_ID "<BLYNK_TEMPLATE_ID>"
+#define BLYNK_TEMPLATE_NAME "<BLYNK_TEMPLATE_NAME>"
+#define BLYNK_AUTH_TOKEN "<BLYNK_AUTH_TOKEN>"
 
 #include <BlynkSimpleStream.h>
 

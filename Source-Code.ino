@@ -8,7 +8,7 @@
 int sensorPin = A0;
 int ledPin = 9;
 int sensorValue = 1;
-char auth[] = "UnjGsqWbooAYqOp2BdOMkB62e-gwtRx4";
+char auth[] = "<Author ID>";
 
 void setup() {
   pinMode(ledPin, OUTPUT);
